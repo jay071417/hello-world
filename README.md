@@ -1,4 +1,6 @@
 # hello-world
 demo 
-its my 1st branch
-modifying again 1st branch
+Its about myself and m loving it
+its good
+Its my second branch
+2nd branc
